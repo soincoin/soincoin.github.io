@@ -1,7 +1,0 @@
-gh-pages
-node_modules
-.*
-!.editorconfig
-!.gitignore
-!.travis.yml
-*.log*
