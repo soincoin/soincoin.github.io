@@ -1,0 +1,6 @@
+Project: soincoin
+Usage Stat
+Today=5 
+Ysday=3
+%change=66.67%
+Change= +2
